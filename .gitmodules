@@ -1,3 +1,4 @@
 [submodule "linux-setup-configs"]
 	path = linux-setup-configs
 	url = https://github.com/RajPorus19/linux-setup-configs
+	branch = main
